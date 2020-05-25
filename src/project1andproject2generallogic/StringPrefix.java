@@ -1,5 +1,5 @@
 //Author : Brendan Loyd
-//Created: 2-4-2020
+//Created: 2-5-2020
 //Comp Sci 2261
 
 //This program gathers two strings from the user and determines if there is a common prefix.
